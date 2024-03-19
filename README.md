@@ -1,1 +1,1 @@
-# sever-http-method
+# server-http-method
